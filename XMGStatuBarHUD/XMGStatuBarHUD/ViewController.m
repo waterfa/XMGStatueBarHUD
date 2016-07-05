@@ -16,7 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    //fuck!fuck!fuck!fuck!
+    //do and do fuck and fuck fuck fuck!
 }
 
 - (void)didReceiveMemoryWarning {
